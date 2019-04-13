@@ -1,0 +1,22 @@
+From 73184e1928430082020b9003f894a62ec12881ae Mon Sep 17 00:00:00 2001
+From: Rachit Sinha <rachit@relfor.com>
+Date: Mon, 25 Mar 2019 06:18:07 +0530
+Subject: [PATCH] initial commit
+
+---
+ README.md | 2 --
+ 1 file changed, 2 deletions(-)
+
+diff --git a/README.md b/README.md
+index 8c22666..0bc39c7 100644
+--- a/README.md
++++ b/README.md
+@@ -2,5 +2,3 @@
+ Just another repository
+ 
+ This is just test branch file editing
+-
+-editted by diksha
+-- 
+2.19.1.windows.1
+
